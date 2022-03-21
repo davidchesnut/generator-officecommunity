@@ -1,0 +1,14 @@
+{
+    "name": "generator-officecommunity",
+    "version": "0.1.0",
+    "description": "FHL ideas for improving yo office experience",
+    "files": [
+        "generators"
+    ],
+    "keywords": [
+        "yeoman-generator"
+    ],
+    "dependencies": {
+        "yeoman-generator": "^1.1.1"
+    }
+}
